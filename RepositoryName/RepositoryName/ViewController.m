@@ -8,7 +8,11 @@
 
 #import "ViewController.h"
 
-@interface ViewController ()
+@interface ViewController (){
+    
+    NSString *string;
+    
+}
 
 @end
 
@@ -17,7 +21,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-//    NSLog(@"Hello  World");
+
 
 }
 
